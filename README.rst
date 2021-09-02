@@ -6,11 +6,20 @@ pykosimcli
 A command line interface tool for kosim model analysis
 
 Supported formats: 
-- kosim results database *.kdbf* -
+
+* kosim results database *.kdbf* *
 
 Tool set includes
-- graphical display of fiktiv Zentral Becken Fracht und Fracht, spezifische Fracht, Entlastungrate und Entlastungshäufigkeit pro Bauwerk
-- parse results to a human readable format
+
+* graphical display of 
+
+  * fiktiv Zentralbeckenfracht / 85% Fracht
+   
+  * spezifische Fracht
+    
+  * Entlastungrate und Entlastungshäufigkeit pro Bauwerk
+
+* parse results to a human readable format
                             
 Requires Python 3.7
 
